@@ -297,6 +297,3 @@ class _ProfilPageState extends State<ProfilPage> {
     );
   }
 }
-
-class _counter {
-}
